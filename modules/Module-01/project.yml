@@ -2,19 +2,18 @@
 ##
 ##
 
-project:
+name: Module-01
+description: Test
+type: project
 
-  name: Module-01
-  description: Test
+tasks:
 
-  tasks:
+  ##
+  - asdasd
+    asdasdas
+    dasdasd
 
-    ##
-    - asdasd
-      asdasdas
-      dasdasd
-
-    ##
-    - asdasda
-      asdasd
-      asd
+  ##
+  - asdasda
+    asdasd
+    asd

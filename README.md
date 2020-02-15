@@ -1,4 +1,4 @@
-![ForgeH School 2020 - Learning By Doing](school.png)
+![ForgeH School 2020 - Learning By Doing](docs/school.png)
 
 # Front-end Developer
 
